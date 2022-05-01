@@ -1,9 +1,9 @@
-[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sayan Dey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="Coding" height=300 width="600" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesayandey&label=Profile%20views&color=0e75b6&style=flat" alt="thesayandey" /> </p>
