@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://rishavchanda.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQEdqHl5xs1WJA/feedshare-shrink_2048_1536/0/1643093280193?e=2147483647&v=beta&t=Nl495XFTzM7YwSHZyVvf66mHk9e4uGLKirqE8W5AHxw)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sayan Dey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
