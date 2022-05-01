@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thesayandey
-- 👀 I’m interested in coding, development, data science
-- 🌱 I’m currently learning dart :)
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in coding, development, blockchain
+- 🌱 I’m currently learning Vue JS :)
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : sayandeypersonal@gmail.com
 
 <!---
