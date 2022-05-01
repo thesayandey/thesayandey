@@ -1,12 +1,12 @@
+[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sayan Dey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="Coding" height="200" width="200" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+<img align="right" alt="Coding"  width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesayandey&label=Profile%20views&color=0e75b6&style=flat" alt="thesayandey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesayandey" alt="thesayandey" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thesayandey" target="blank"><img src="https://img.shields.io/twitter/follow/thesayandey?logo=twitter&style=for-the-badge" alt="thesayandey" /></a> </p>
 
